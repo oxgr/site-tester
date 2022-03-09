@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+# Hello website!
 
-You can use the [editor on GitHub](https://github.com/oxgr/site-tester/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This is a basic HTML starter project you can build on however you like. No need to save. While you develop your site, your changes will happen ✨ immediately in the preview window. On the left you'll see the files that make up your site, including HTML, JavaScript, and CSS. You can upload assets like images or audio in `assets`. The rest is up to you and your imagination. 🦄
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## What's in this project?
 
-### Markdown
+← `README.md`: That's this file, where you can tell people what your cool website does and how you built it.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+← `index.html`: This is the main web page for your site. The HTML defines the structure and content of the page using _elements_. You'll see references in the HTML to the JS and CSS files. Try clicking the image in the center of the page!
 
-```markdown
-Syntax highlighted code block
+← `style.css`: CSS files add styling rules to your content. The CSS applies styles to the elements in your HTML page. The style rules also make the image move when you click it.
 
-# Header 1
-## Header 2
-### Header 3
+← `script.js`: If you're feeling fancy you can add interactivity to your site with JavaScript. The code in the JavaScript file runs when the page loads, and when the visitor clicks the button you can add below.
 
-- Bulleted
-- List
+Open each file and check out the comments (in gray) for more info.
 
-1. Numbered
-2. List
+## Try this next 🏗️
 
-**Bold** and _Italic_ and `Code` text
+Take a look in `TODO.md` for next steps you can try out in your new site!
 
-[Link](url) and ![Image](src)
-```
+___Want a minimal version of this project to build your own website? Check out [Blank Website](https://glitch.com/edit/#!/remix/glitch-blank-website)!___
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+![Glitch](https://cdn.glitch.com/a9975ea6-8949-4bab-addb-8a95021dc2da%2FLogo_Color.svg?v=1602781328576)
 
-### Jekyll Themes
+## You built this with Glitch!
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/oxgr/site-tester/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[Glitch](https://glitch.com) is a friendly community where millions of people come together to build web apps and websites.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- Need more help? [Check out our Help Center](https://help.glitch.com/) for answers to any common questions.
+- Ready to make it official? [Become a paid Glitch member](https://glitch.com/pricing) to boost your app with private sharing, more storage and memory, domains and more.
